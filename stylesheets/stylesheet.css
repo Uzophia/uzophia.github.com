@@ -441,7 +441,7 @@ p {
 }
 
 a {
-  color: #2879d0;
+  color: #9D1020;
 }
 a:hover {
   color: #2268b2;
@@ -451,15 +451,17 @@ header {
   padding-top: 40px;
   padding-bottom: 40px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
-  background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
+  background: #9D1020 ;
   border-bottom: solid 1px #275da1;
+  background: #2e7bcf url(../images/header-bg2.jpg) 0 0 repeat-x;
+
 }
 
 header h1 {
   width: 540px;
   margin-top: 0;
   margin-bottom: 0.2em;
-  font-size: 72px;
+  font-size: 50px;
   font-weight: normal;
   line-height: 1;
   color: #fff;
@@ -473,7 +475,7 @@ header h2 {
   font-size: 26px;
   font-weight: normal;
   line-height: 1.3;
-  color: #9ddcff;
+  color: #410D17;
   letter-spacing: 0;
 }
 
@@ -499,10 +501,9 @@ header h2 {
 
 aside#sidebar {
   float: right;
-  width: 200px;
   min-height: 504px;
   padding-left: 20px;
-  font-size: 12px;
+  font-size: 20px;
   line-height: 1.3;
   background: transparent url(../images/sidebar-bg.jpg) 0 0 no-repeat;
 }
@@ -534,7 +535,8 @@ header a.button {
   position: absolute;
   top: 0;
   right: 0;
-  background: transparent url(../images/github-button.png) 0 0 no-repeat;
+  background: transparent url(../images/github-button2.png) 0 0 no-repeat;
+
 }
 aside a.button {
   display: block;
@@ -820,7 +822,7 @@ footer a:hover {
     width: 100%;
   }
   header h1 {
-    font-size: 48px;
+    font-size: 30px;
   }
   header h2 {
     font-size: 24px;
